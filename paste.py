@@ -12,5 +12,20 @@ heading = """
             ██║     ██║   ██║██║╚██╗██║╚██╗ ██╔╝██╔══╝  ██╔══██╗   ██║   ██╔══╝  ██╔══██╗
             ╚██████╗╚██████╔╝██║ ╚████║ ╚████╔╝ ███████╗██║  ██║   ██║   ███████╗██║  ██║
              ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-""" + ""
-"\n\n           Created by Kieran!"
+
+            Created by Kieran!
+"""
+
+
+currencies = """
+1. USD - United States Dollar
+2. EUR - Euro
+3. JPY - Japanese Yen
+4. GBP - British Pound Sterling
+5. CNY - Chinese Yuan Renminbi
+6. AUD - Australian Dollar
+7. CAD - Canadian Dollar
+8. CHF - Swiss Franc
+9. HKD - Hong Kong Dollar
+10. SEK - Swedish Krona
+"""
